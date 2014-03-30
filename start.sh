@@ -78,9 +78,6 @@ function checkServer {
 	cd $VERSION
 	startServer
 }
-if [ $1 == "debian" ]; then
-	sudo apt-get install m4 whiptail wget
-fi
 $DIALOG --title "Adrianistán Server Minecraft" --msgbox "Bienvenido al configurador de Adrianistán Minecraft" 20 40
 $DIALOG --title "Adrianistán Server Minecraft" --menu "Selecciona la versión del server" 20 40 10 1 "Minecraft 1.7.4" 2 "Minecraft 1.6.4" 3 "Minecraft 1.5.2" 2>$TMPFILE
 
