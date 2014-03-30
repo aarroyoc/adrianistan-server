@@ -4,7 +4,7 @@ Adrianistán Server
 Scripts de Adrianistán Server para Minecraft compatibles con Linux (Ubuntu, Debian, openSUSE, CentOS, ...), FreeBSD, NetBSD y OpenBSD.
 
 ##Descárgalo
-Haz click en (Descargar Zip)[https://github.com/AdrianArroyoCalle/adrianistan-server/archive/master.zip] y extráelo en una carpeta (ahí irán los servers) o clona el repositorio usando Git:
+Haz click en [Descargar Zip](https://github.com/AdrianArroyoCalle/adrianistan-server/archive/master.zip) y extráelo en una carpeta (ahí irán los servers) o clona el repositorio usando Git:
 
 ```sh
 git clone http://github.com/AdrianArroyoCalle/adrianistan-minecraft
