@@ -1,9 +1,0 @@
-name: adrianistan-bukkit-plugin
-main: adrianistan.bukkit.plugin.Main
-version: 0.1
-commands:
- adrianistan:
-  description: Get Adrianistan credits
-  usage: /adrianistan 
-  permission: adrianistan-bukkit-plugin.adrianistan
-  permission-message: You don't have permission

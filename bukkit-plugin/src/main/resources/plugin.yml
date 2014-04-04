@@ -1,0 +1,13 @@
+name: adrianistan-bukkit-plugin
+main: adrianistan.bukkit.plugin.Adrianistan
+version: 1.0
+commands:
+ adrianistan:
+  description: Obtén las instrucciones de Adrianistán
+  usage: /adrianistan 
+ internet: 
+  description: Verifica si estas conectado a INTERNET
+  usage: /internet
+ tren:
+  description: Obtén un tren cortesía del Ministerio de Transportes
+  usage: /tren

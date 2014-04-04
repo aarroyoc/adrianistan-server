@@ -1,8 +1,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>adrianistan.bukkit.plugin</groupId>
-	<artifactId>Main</artifactId>
-	<version>0.1</version>
+	<artifactId>Adrianistan</artifactId>
+	<version>1.0</version>
 	<description>Bukkit plugin for Adrianistan servers</description>
 	<build>
 		<plugins>
@@ -27,7 +27,7 @@
 		<dependency>
 			<groupId>org.bukkit</groupId>
 			<artifactId>bukkit</artifactId>
-			<version>1.6.4-R2.0</version>
+			<version>1.5.2-R1.0</version>
 			<type>jar</type>
 			<scope>provided</scope>
 		</dependency>
